@@ -144,11 +144,17 @@ vlm-action-grounding/
 
 ## Reproduce
 
-```bash
-pip install -r requirements.txt
-```
-
 Open any notebook in `notebooks/` and follow the dataset setup instructions at the top. All experiments run on a single T4 GPU (Kaggle free tier).
+
+## Datasets
+
+All datasets are publicly available on Kaggle. Add them to your notebook via the Input panel before running.
+
+| Dataset | Kaggle Link |
+|---------|-------------|
+| UCF-101 | [matthewjansen/ucf101-action-recognition](https://www.kaggle.com/datasets/matthewjansen/ucf101-action-recognition) |
+| Kinetics-400 Mini | [duckdai/kinetics400-mini](https://www.kaggle.com/datasets/duckdai/kinetics400-mini) |
+| Something-Something v2 | [ipythonx/ssv2test](https://www.kaggle.com/datasets/ipythonx/ssv2test) |
 
 To switch datasets in `multi_dataset_eval.ipynb`, change one line:
 
