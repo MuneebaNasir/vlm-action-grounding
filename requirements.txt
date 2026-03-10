@@ -1,0 +1,11 @@
+torch>=2.0.0
+transformers>=4.37.0
+accelerate
+qwen-vl-utils
+opencv-python-headless
+Pillow
+pandas
+numpy
+matplotlib
+scipy
+tqdm
