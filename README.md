@@ -64,11 +64,29 @@ Note: all class names are provided in the prompt for every condition including z
 
 ## Datasets
 
-| Dataset | Classes | Format | Difficulty | Samples |
-|---------|---------|--------|------------|---------|
-| UCF-101 | 101 | .avi | Low — scene-based actions | 303 |
-| Kinetics-400 Mini | 200 | .mp4 | Medium — diverse YouTube clips | 400 |
-| Something-Something v2 | 174 | .webm | High — requires temporal reasoning | 348 |
+All datasets are publicly available on Kaggle. Add them to your notebook via the Input panel before running.
+
+| Dataset | Classes | Format | Difficulty | Samples | Kaggle |
+|---------|---------|--------|------------|---------|--------|
+| UCF-101 | 101 | .avi | Low — scene-based actions | 303 | [matthewjansen/ucf101-action-recognition](https://www.kaggle.com/datasets/matthewjansen/ucf101-action-recognition) |
+| Kinetics-400 Mini | 200 | .mp4 | Medium — diverse YouTube clips | 400 | [duckdai/kinetics400-mini](https://www.kaggle.com/datasets/duckdai/kinetics400-mini) |
+| Something-Something v2 | 174 | .webm | High — requires temporal reasoning | 348 | [ipythonx/ssv2test](https://www.kaggle.com/datasets/ipythonx/ssv2test) |
+
+---
+
+## Sample Frames
+
+**UCF-101**
+
+![UCF-101 sample frames](results/figures/ucf101_sample_frames.png)
+
+**Kinetics-400 Mini**
+
+![Kinetics-400 sample frames](results/figures/kinetics400_sample_frames.png)
+
+**Something-Something v2**
+
+![SSv2 sample frames](results/figures/ssv2_sample_frames.png)
 
 ---
 
@@ -81,6 +99,24 @@ Note: all class names are provided in the prompt for every condition including z
 | Something-Something v2 | 0.075 | 0.804 | 0.037 | **+0.729** | -0.037 |
 
 All differences statistically significant (McNemar test, p < 0.0001 across all datasets and condition pairs).
+
+### UCF-101
+
+![UCF-101 results](results/figures/ucf101_results.png)
+
+### Kinetics-400 Mini
+
+![Kinetics-400 results](results/figures/kinetics400_results.png)
+
+### Something-Something v2
+
+![SSv2 results](results/figures/ssv2_results.png)
+
+### Cross-Dataset Comparison
+
+![Cross-dataset comparison](results/figures/cross_dataset_comparison.png)
+
+---
 
 ### Key Findings
 
@@ -134,6 +170,9 @@ vlm-action-grounding/
     ├── kinetics400_results.csv
     ├── ssv2_results.csv
     └── figures/
+        ├── ucf101_sample_frames.png
+        ├── kinetics400_sample_frames.png
+        ├── ssv2_sample_frames.png
         ├── ucf101_results.png
         ├── kinetics400_results.png
         ├── ssv2_results.png
@@ -144,17 +183,11 @@ vlm-action-grounding/
 
 ## Reproduce
 
+```bash
+pip install -r requirements.txt
+```
+
 Open any notebook in `notebooks/` and follow the dataset setup instructions at the top. All experiments run on a single T4 GPU (Kaggle free tier).
-
-## Datasets
-
-All datasets are publicly available on Kaggle. Add them to your notebook via the Input panel before running.
-
-| Dataset | Kaggle Link |
-|---------|-------------|
-| UCF-101 | [matthewjansen/ucf101-action-recognition](https://www.kaggle.com/datasets/matthewjansen/ucf101-action-recognition) |
-| Kinetics-400 Mini | [duckdai/kinetics400-mini](https://www.kaggle.com/datasets/duckdai/kinetics400-mini) |
-| Something-Something v2 | [ipythonx/ssv2test](https://www.kaggle.com/datasets/ipythonx/ssv2test) |
 
 To switch datasets in `multi_dataset_eval.ipynb`, change one line:
 
