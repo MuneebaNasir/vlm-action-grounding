@@ -1,0 +1,401 @@
+video,ground_truth,pred_A,pred_B,pred_C,wrong_label,hit_A,hit_B,hit_C
+TDQ3c39we9s.mp4,bobsledding,bobsledding,bobsledding,bobsledding,playing cricket,1,1,1
+uMLQJfBRE40.mp4,dribbling basketball,dribbling basketball,dribbling basketball,dribbling basketball,faceplanting,1,1,1
+e7TdOACIy_o.mp4,playing recorder,blowing nose,playing recorder,balloon blowing,planting trees,0,1,0
+S9NhM3XuAZs.mp4,playing harp,playing harp,playing harp,playing harp,playing guitar,1,1,1
+pI0_ZylFe5w.mp4,folding napkins,applauding,folding napkins,feeding goats,feeding goats,0,1,0
+eSTBlNbGhko.mp4,cutting nails,answering questions,cutting nails,eating ice cream,eating ice cream,0,1,0
+eHsi3GWMX3s.mp4,breakdancing,breakdancing,breakdancing,breakdancing,applying cream,1,1,1
+XVM3RH5xZqM.mp4,filling eyebrows,filling eyebrows,filling eyebrows,filling eyebrows,blasting sand,1,1,1
+a2SAO7ExWUs.mp4,hula hooping,hula hooping,hula hooping,hula hooping,country line dancing,1,1,1
+7HLwQm8WDrI.mp4,finger snapping,answering questions,finger snapping,chopping wood,chopping wood,0,1,0
+HVxm6MYvFjg.mp4,country line dancing,country line dancing,country line dancing,country line dancing,driving tractor,1,1,1
+JcwS9u1FYo0.mp4,catching fish,swimming,catching fish,playing cymbals,playing cymbals,0,1,0
+p72oj79Z_uA.mp4,headbutting,arguing,headbutting,cleaning pool,cleaning pool,0,1,0
+vYYtpyq3ISA.mp4,bowling,bowling,bowling,bowling,crying,1,1,1
+EjlzQ6kxHYM.mp4,eating chips,eating chips,eating chips,playing basketball,playing basketball,1,1,0
+FmIxPnhH87c.mp4,playing harmonica,playing harmonica,playing harmonica,playing harmonica,hammer throw,1,1,1
+Lvjcp0LulV0.mp4,building shed,building shed,building shed,building shed,doing aerobics,1,1,1
+OLn-3fWjwy8.mp4,climbing ladder,monkey bars,climbing ladder,faceplanting,faceplanting,0,1,0
+yDQ7Yaw_Sn0.mp4,curling hair,curling hair,curling hair,curling hair,golf driving,1,1,1
+tCjvrv9mO9g.mp4,playing trumpet,playing trumpet,playing trumpet,playing trumpet,frying vegetables,1,1,1
+Oe6UTZUXCrQ.mp4,blowing leaves,cleaning leaves,blowing leaves,blowing leaves,decorating the christmas tree,0,1,1
+gGfKD9S78Ik.mp4,folding paper,folding paper,folding paper,dying hair,dying hair,1,1,0
+y6VCdA3F8vw.mp4,bookbinding,paper cutting,bookbinding,playing piano,playing piano,0,1,0
+BGIEZzO347k.mp4,high jump,running,high jump,giving or receiving award,giving or receiving award,0,1,0
+MtiyZuTPuM8.mp4,headbanging,playing cards,headbanging,dancing ballet,dancing ballet,0,1,0
+775bPqXjv1g.mp4,carrying baby,crying,crying,crying,dining,0,0,0
+n8H1wkidsNs.mp4,playing didgeridoo,playing didgeridoo,playing didgeridoo,playing didgeridoo,playing drums,1,1,1
+YpA091iTUE8.mp4,playing ukulele,playing ukulele,playing ukulele,playing ukulele,eating spaghetti,1,1,1
+-YGUR0HXgyE.mp4,busking,busking,busking,busking,cooking chicken,1,1,1
+63_Xu-Lb-oI.mp4,balloon blowing,balloon blowing,balloon blowing,crying,crying,1,1,0
+d35AVX6S2ts.mp4,counting money,counting money,counting money,cleaning toilet,cleaning toilet,1,1,0
+ZPuw9XbX8o8.mp4,playing basketball,dunking basketball,playing basketball,dunking basketball,clean and jerk,0,1,0
+dU7W4hlzNnI.mp4,belly dancing,belly dancing,belly dancing,belly dancing,bowling,1,1,1
+TL6ProvPAPM.mp4,cleaning windows,cleaning windows,cleaning windows,cleaning windows,playing ice hockey,1,1,1
+rYR7UXTt2lM.mp4,breading or breadcrumbing,breading or breadcrumbing,breading or breadcrumbing,breading or breadcrumbing,catching or throwing softball,1,1,1
+E8OtWWFpzRI.mp4,playing trumpet,playing trumpet,playing trumpet,playing trumpet,curling hair,1,1,1
+AzxYTNWxEd0.mp4,cooking on campfire,barbequing,cooking on campfire,barbequing,bouncing on trampoline,0,1,0
+NVedGeVPc30.mp4,drinking,drinking beer,drinking,playing piano,playing piano,1,1,0
+MYkcQsKEKUg.mp4,blowing glass,blowing glass,blowing glass,blowing glass,getting a haircut,1,1,1
+9XhT5d0MLqQ.mp4,cleaning gutters,cleaning gutters,cleaning gutters,cleaning gutters,playing tennis,1,1,1
+Ki_PyuyFH7s.mp4,feeding birds,walking,feeding birds,playing cricket,playing cricket,0,1,0
+Bz_UzA4Au2w.mp4,drinking beer,drinking,drinking beer,drinking,catching fish,1,1,1
+phCDgUs-xuE.mp4,assembling computer,assembling computer,assembling computer,assembling computer,catching or throwing softball,1,1,1
+7KqmVuKL-lg.mp4,carving pumpkin,carving pumpkin,carving pumpkin,carving pumpkin,chopping wood,1,1,1
+6A1GUkCdQsM.mp4,beatboxing,brushing teeth,beatboxing,playing paintball,playing paintball,0,1,0
+bfYXfdKIcTs.mp4,archery,archery,archery,feeding fish,feeding fish,1,1,0
+djHx2iFsFEk.mp4,planting trees,planting trees,planting trees,planting trees,cooking chicken,1,1,1
+xHtWqrXzeL8.mp4,brush painting,applying cream,brush painting,brush painting,playing keyboard,0,1,1
+MOo8XL3S9lE.mp4,exercising with an exercise ball,exercising with an exercise ball,exercising with an exercise ball,exercising with an exercise ball,high jump,1,1,1
+8k5LbCk1Yi8.mp4,barbequing,cooking on teppanyaki grill,barbequing,playing squash or racquetball,playing squash or racquetball,0,1,0
+JmmVd5rvAlU.mp4,hammer throw,hammer throw,hammer throw,front raises,front raises,1,1,0
+mBxMrqxwPyU.mp4,folding napkins,folding napkins,folding napkins,folding napkins,hitting baseball,1,1,1
+YbwMENeFT48.mp4,gymnastics tumbling,cleaning floor,gymnastics tumbling,cooking on campfire,cooking on campfire,0,1,0
+1BStfu5yDVI.mp4,cheerleading,cheerleading,cheerleading,cheerleading,blowing leaves,1,1,1
+CZ0JKZTrQ60.mp4,feeding birds,feeding birds,feeding birds,feeding birds,catching or throwing frisbee,1,1,1
+O_AkzabbvZg.mp4,eating doughnuts,eating doughnuts,eating doughnuts,country line dancing,country line dancing,1,1,0
+sbTLuBYPH1Y.mp4,bandaging,applying cream,bandaging,clean and jerk,clean and jerk,0,1,0
+L_APpgnxcZw.mp4,braiding hair,braiding hair,braiding hair,braiding hair,diving cliff,1,1,1
+x43a-H0kgLI.mp4,grinding meat,carving pumpkin,grinding meat,carving pumpkin,cartwheeling,0,1,0
+7LXUFzIm4sc.mp4,carving pumpkin,carving pumpkin,carving pumpkin,carving pumpkin,crossing river,1,1,1
+V_vdMM0jP98.mp4,cleaning shoes,cleaning shoes,cleaning shoes,cleaning shoes,applauding,1,1,1
+ym2eg-lUx8s.mp4,capoeira,capoeira,capoeira,capoeira,playing guitar,1,1,1
+joN6_IGDa0U.mp4,answering questions,answering questions,answering questions,answering questions,gargling,1,1,1
+TdJUEcnO3D8.mp4,golf putting,golf putting,golf putting,golf putting,braiding hair,1,1,1
+C1Ya5kGj45U.mp4,cleaning toilet,cleaning toilet,cleaning toilet,cleaning toilet,cooking egg,1,1,1
+BeRd0bat6cc.mp4,cooking chicken,cooking sausages,cooking chicken,cooking sausages,baking cookies,0,1,0
+x5gX5bX2sW0.mp4,hoverboarding,hoverboarding,hoverboarding,hoverboarding,bandaging,1,1,1
+7Cg1bs3VE7g.mp4,garbage collecting,garbage collecting,garbage collecting,garbage collecting,golf driving,1,1,1
+D8aN64X6jCM.mp4,disc golfing,None,disc golfing,counting money,counting money,0,1,0
+XJNlj1sv9z0.mp4,fixing hair,answering questions,fixing hair,playing didgeridoo,playing didgeridoo,0,1,0
+PO2bY8GcXck.mp4,feeding fish,abseiling,feeding fish,braiding hair,braiding hair,0,1,0
+U3V4yeEqtbA.mp4,applying cream,applying cream,applying cream,applying cream,picking fruit,1,1,1
+AXtojjtvhoc.mp4,changing oil,changing oil,changing oil,changing oil,playing recorder,1,1,1
+16a65wnUux0.mp4,blowing leaves,playing frisbee,blowing leaves,filling eyebrows,filling eyebrows,0,1,0
+sHsIYIUCyV4.mp4,eating hotdog,drinking,eating hotdog,drinking,blowing nose,0,1,0
+sZbKvtOW7n0.mp4,picking fruit,picking fruit,picking fruit,picking fruit,applauding,1,1,1
+Azf11UXLmsU.mp4,bungee jumping,bungee jumping,bungee jumping,gymnastics tumbling,gymnastics tumbling,1,1,0
+Ut09ow5T26Q.mp4,front raises,Front raises,front raises,bench pressing,cooking on campfire,1,1,0
+aaYhFjh7oUY.mp4,brushing teeth,brushing teeth,brushing teeth,brushing teeth,extinguishing fire,1,1,1
+MI4vpnzM50c.mp4,arm wrestling,arm wrestling,arm wrestling,arm wrestling,feeding birds,1,1,1
+NVD2SJXZnRY.mp4,playing paintball,paintball,playing paintball,paintball,eating chips,1,1,1
+xFSwPP1Nnck.mp4,diving cliff,baking cookies,diving cliff,dancing macarena,dancing macarena,0,1,0
+Ruov9KgEqbs.mp4,playing accordion,playing accordion,playing accordion,playing accordion,catching fish,1,1,1
+yWliDHn0GyQ.mp4,dancing macarena,dancing gangnam style,dancing macarena,dancing gangnam style,bandaging,0,1,0
+qZsIAq5WETs.mp4,building cabinet,assembling computer,building cabinet,cleaning windows,cleaning windows,0,1,0
+_mupI51ie9A.mp4,playing squash or racquetball,playing squash or racquetball,playing squash or racquetball,faceplanting,faceplanting,1,1,0
+06xpoVe6ZoQ.mp4,garbage collecting,garbage collecting,garbage collecting,garbage collecting,bookbinding,1,1,1
+fvZP9D9ewOk.mp4,clay pottery making,clay pottery making,clay pottery making,clay pottery making,beatboxing,1,1,1
+H-zMrhUpKtI.mp4,eating burger,eating burger,eating burger,drinking shots,drinking shots,1,1,0
+63P_ycLnm_w.mp4,faceplanting,lifting,faceplanting,filling eyebrows,filling eyebrows,0,1,0
+xCqlKeyIucs.mp4,brushing hair,sitting,brushing hair,belly dancing,belly dancing,0,1,0
+Qj_7ahJcJG8.mp4,playing bagpipes,playing bagpipes,playing bagpipes,playing bagpipes,gymnastics tumbling,1,1,1
+cVwEZKwJ-II.mp4,playing keyboard,playing keyboard,playing keyboard,playing keyboard,hurling (sport),1,1,1
+CDFIqevgp-U.mp4,drumming fingers,Playing piano,drumming fingers,playing controller,playing controller,0,1,0
+wEHiaB1auEc.mp4,exercising arm,exercising arm,exercising arm,bandaging,bandaging,1,1,0
+o8iCCryOTbo.mp4,bartending,bartending,bartending,bartending,building shed,1,1,1
+1hJnwE11XZ0.mp4,playing flute,playing flute,playing flute,playing flute,building cabinet,1,1,1
+wOCI9cla-Gk.mp4,playing monopoly,playing monopoly,playing monopoly,playing monopoly,grinding meat,1,1,1
+yg3vk6_2wAE.mp4,eating cake,eating cake,eating cake,eating cake,crawling baby,1,1,1
+xkH9H582gI0.mp4,balloon blowing,balloon blowing,balloon blowing,balloon blowing,biking through snow,1,1,1
+utxU10f83GQ.mp4,eating spaghetti,eating spaghetti,eating spaghetti,cleaning shoes,cleaning shoes,1,1,0
+ebYDs8g3n2Q.mp4,air drumming,counting money,air drumming,bowling,bowling,0,1,0
+fAlSIna7XvA.mp4,frying vegetables,frying vegetables,frying vegetables,frying vegetables,golf putting,1,1,1
+C_E5poOYgfw.mp4,cutting watermelon,cutting watermelon,cutting watermelon,cutting watermelon,playing tennis,1,1,1
+HvMACdKztlU.mp4,frying vegetables,cooking chicken,frying vegetables,cooking chicken,drumming fingers,0,1,0
+xA2E0uzL4ho.mp4,cutting pineapple,cutting pineapple,cutting pineapple,cutting pineapple,hopscotch,1,1,1
+WKTvvkTnCME.mp4,applying cream,sitting,applying cream,hitting baseball,hitting baseball,0,1,0
+fzgVtI1OZRw.mp4,playing ukulele,applauding,playing ukulele,hugging,hugging,0,1,0
+N0PPYMWrLro.mp4,barbequing,barbequing,barbequing,barbequing,clay pottery making,1,1,1
+Ufcn0ykQ_Zo.mp4,biking through snow,biking through snow,biking through snow,biking through snow,playing ukulele,1,1,1
+_08xCUmayOk.mp4,dancing macarena,dancing macarena,dancing macarena,front raises,front raises,1,1,0
+r0soqce6cgI.mp4,headbutting,hugging,headbutting,doing nails,doing nails,0,1,0
+yYrO_ruFg6M.mp4,catching fish,fishing,catching fish,catching fish,eating spaghetti,0,1,1
+JcMnwOnl4kM.mp4,air drumming,air drumming,air drumming,eating hotdog,eating hotdog,1,1,0
+V9Qhbqul0Rs.mp4,grooming horse,petting cat,grooming horse,cracking neck,cracking neck,0,1,0
+08b9nh7a3i8.mp4,archery,archery,archery,archery,high jump,1,1,1
+rCTrWMv5Gn8.mp4,eating chips,eating chips,eating chips,eating chips,eating burger,1,1,1
+AMfBgZnfQEU.mp4,playing cymbals,playing drums,playing cymbals,playing drums,crossing river,0,1,0
+JBh97vIJ6fk.mp4,blowing nose,balloon blowing,blowing nose,balloon blowing,grooming horse,0,1,0
+G8os8GeaX2k.mp4,dancing gangnam style,dancing,dancing gangnam style,hula hooping,hula hooping,1,1,0
+FECZ_qaFDGU.mp4,catching or throwing baseball,playing baseball,catching or throwing baseball,catching or throwing baseball,bartending,0,1,1
+BYEfLD-UkOM.mp4,hopscotch,hopscotch,hopscotch,hoverboarding,hoverboarding,1,1,0
+fGvPghq1Sp4.mp4,blowing glass,blowing glass,blowing glass,blowing glass,playing paintball,1,1,1
+C8Vwgdv_V0k.mp4,drinking beer,drinking beer,drinking beer,drinking beer,blowing leaves,1,1,1
+mqUmJ5sAP5o.mp4,hula hooping,hula hooping,hula hooping,hula hooping,playing tennis,1,1,1
+rIHfcyot-_s.mp4,getting a haircut,getting a haircut,getting a haircut,braiding hair,changing wheel,1,1,0
+GPm-cW5SSKo.mp4,bending back,bending back,bending back,hurling (sport),hurling (sport),1,1,0
+PU1DCcuxBqo.mp4,eating ice cream,eating ice cream,eating ice cream,feeding baby,checking tires,1,1,0
+umsy2cgnrXY.mp4,playing cards,playing cards,playing cards,playing cards,climbing ladder,1,1,1
+deJynATMTDM.mp4,playing kickball,playing frisbee,playing kickball,playing bagpipes,playing bagpipes,0,1,0
+p8v-7fwRXVA.mp4,golf driving,golf driving,golf driving,golf driving,bending back,1,1,1
+nujYhdKBf4U.mp4,eating burger,eating burger,eating burger,eating burger,bungee jumping,1,1,1
+owqfqgva4w8.mp4,egg hunting,answering questions,egg hunting,cleaning gutters,cleaning gutters,0,1,0
+SZyF6SUxHNs.mp4,blasting sand,cleaning pool,blasting sand,cleaning pool,cartwheeling,0,1,0
+Mg3ZAJq_FQA.mp4,feeding goats,feeding goats,feeding goats,feeding goats,golf driving,1,1,1
+fS9DCWBmt8k.mp4,eating ice cream,eating ice cream,eating ice cream,eating ice cream,bench pressing,1,1,1
+cBGAHhWbxSc.mp4,dying hair,kissing,dying hair,bungee jumping,bungee jumping,0,1,0
+GNEdCSaQlM4.mp4,playing squash or racquetball,playing squash or racquetball,playing squash or racquetball,playing squash or racquetball,abseiling,1,1,1
+Bhezvty7Fk4.mp4,dunking basketball,dunking basketball,dunking basketball,dunking basketball,driving tractor,1,1,1
+iK3_1YhOtTk.mp4,hopscotch,playing basketball,hopscotch,eating ice cream,eating ice cream,0,1,0
+fdmxXGW7TRk.mp4,applauding,Playing guitar,applauding,playing cricket,playing cricket,0,1,0
+WgOutWO3dDs.mp4,playing harmonica,playing guitar,playing harmonica,high kick,high kick,0,1,0
+Zm0jzuCtqwI.mp4,beatboxing,crying,beatboxing,blowing nose,extinguishing fire,0,1,0
+a3DEfIHon-E.mp4,dancing gangnam style,playing ukulele,dancing gangnam style,counting money,counting money,0,1,0
+tlcEAxeSvuw.mp4,bending metal,arm wrestling,bending metal,assembling computer,assembling computer,0,1,0
+xj6U7_TKKbI.mp4,celebrating,soccer,celebrating,cleaning floor,cleaning floor,0,1,0
+8pnWBOsyZFo.mp4,getting a haircut,getting a haircut,getting a haircut,getting a haircut,cooking sausages,1,1,1
+un_wO7BepLk.mp4,crying,hugging,crying,hugging,playing flute,0,1,0
+wF5uzvTNwSE.mp4,applauding,soccer,applauding,cooking sausages,cooking sausages,0,1,0
+3LqqSpinRYQ.mp4,hitting baseball,hitting baseball,hitting baseball,playing drums,playing drums,1,1,0
+xIYP_Op6ZQE.mp4,cheerleading,cheerleading,cheerleading,eating watermelon,eating watermelon,1,1,0
+lFx2hqTKV_c.mp4,doing aerobics,dancing,doing aerobics,belly dancing,belly dancing,0,1,0
+6SU1P-ehJYU.mp4,grinding meat,grinding meat,grinding meat,grinding meat,playing controller,1,1,1
+8L4qees9J1s.mp4,drinking,drinking,drinking,clean and jerk,clean and jerk,1,1,0
+yit_ns3AmAs.mp4,getting a tattoo,getting a tattoo,getting a tattoo,getting a tattoo,climbing ladder,1,1,1
+kQtBNp50sok.mp4,grooming horse,grooming horse,grooming horse,grooming horse,hurling (sport),1,1,1
+0eqsuf2-Y6E.mp4,contact juggling,baking cookies,contact juggling,high jump,high jump,0,1,0
+xXDxNMP4a1I.mp4,climbing tree,climbing tree,climbing tree,climbing tree,playing basketball,1,1,1
+6mYaRY6vhDQ.mp4,hockey stop,hockey stop,hockey stop,catching or throwing softball,catching or throwing softball,1,1,0
+wCd-00qUARE.mp4,playing chess,playing chess,playing chess,playing chess,dying hair,1,1,1
+msN0RqX6Z5M.mp4,building cabinet,building cabinet,building cabinet,building cabinet,bookbinding,1,1,1
+41YxghjkouA.mp4,playing kickball,playing baseball,playing kickball,catching or throwing softball,getting a tattoo,0,1,0
+g-Vul5BocIY.mp4,feeding goats,feeding goats,feeding goats,feeding goats,clapping,1,1,1
+B6v4wQVZnpQ.mp4,cleaning gutters,cleaning gutters,cleaning gutters,cleaning gutters,plastering,1,1,1
+X35tnMl40PA.mp4,hurdling,hurdling,hurdling,hurdling,building cabinet,1,1,1
+WVJeefFkUwQ.mp4,cooking sausages,barbequing,barbequing,barbequing,climbing tree,0,0,0
+z6HJ-dPQ_6M.mp4,answering questions,answering questions,answering questions,brushing teeth,brushing teeth,1,1,0
+eofeeRDyy50.mp4,counting money,counting money,counting money,counting money,belly dancing,1,1,1
+_LXTp9clJ-Y.mp4,planting trees,planting trees,planting trees,planting trees,bartending,1,1,1
+f0GGM3mqtRo.mp4,playing paintball,paintball,playing paintball,paintball,canoeing or kayaking,1,1,1
+vSpG1rbpZZw.mp4,playing piano,playing piano,playing piano,playing piano,crossing river,1,1,1
+vSV67EvZEBs.mp4,arranging flowers,arranging flowers,arranging flowers,arranging flowers,hitting baseball,1,1,1
+EXL3ivuaup8.mp4,hurdling,hurdling,hurdling,hurdling,playing poker,1,1,1
+lS1P08lIWwo.mp4,clean and jerk,deadlifting,clean and jerk,deadlifting,grooming horse,0,1,0
+Rftp1B7TA_I.mp4,dodgeball,playing dodgeball,dodgeball,dodgeball,cooking sausages,1,1,1
+Q8Ym8TMqMNs.mp4,canoeing or kayaking,canoeing or kayaking,canoeing or kayaking,canoeing or kayaking,eating doughnuts,1,1,1
+mOpHrob0vow.mp4,changing oil,changing oil,changing oil,changing oil,bowling,1,1,1
+g-Wv2ZKoWbU.mp4,changing wheel,Inspecting,changing wheel,assembling computer,exercising with an exercise ball,0,1,0
+iNbgH3SVfoA.mp4,assembling computer,assembling computer,assembling computer,assembling computer,playing cricket,1,1,1
+PtGkIJmDE0w.mp4,blowing out candles,blowing out candles,blowing out candles,blowing out candles,crossing river,1,1,1
+EogqtDGheCA.mp4,digging,None,planting trees,playing drums,playing drums,0,0,0
+Gt9ZZttmR3w.mp4,bench pressing,bench pressing,bench pressing,bench pressing,driving tractor,1,1,1
+UP3l7bV0vZ8.mp4,deadlifting,deadlifting,deadlifting,deadlifting,contact juggling,1,1,1
+8A2GbNyp_Fw.mp4,playing accordion,playing accordion,playing accordion,playing accordion,fixing hair,1,1,1
+wjvcy7uOxas.mp4,hurling (sport),hurling (sport),hurling (sport),getting a haircut,getting a haircut,1,1,0
+DiiAjEcHLg4.mp4,bench pressing,bending metal,bench pressing,finger snapping,finger snapping,0,1,0
+stnr5RG-Hv4.mp4,ice climbing,ice climbing,ice climbing,eating chips,eating chips,1,1,0
+dGLPhbU6BNc.mp4,playing saxophone,playing saxophone,playing saxophone,playing saxophone,bending back,1,1,1
+d1TYueq6OR0.mp4,contact juggling,contact juggling,contact juggling,hockey stop,hockey stop,1,1,0
+NgiN-oQWikA.mp4,playing organ,playing piano,playing organ,playing keyboard,baby waking up,0,1,0
+-jOJedjjk74.mp4,canoeing or kayaking,canoeing or kayaking,canoeing or kayaking,canoeing or kayaking,eating carrots,1,1,1
+2byLcHBl61M.mp4,breakdancing,breakdancing,breakdancing,playing organ,playing organ,1,1,0
+jjxbzEaLGeg.mp4,bouncing on trampoline,bouncing on trampoline,bouncing on trampoline,bouncing on trampoline,cutting watermelon,1,1,1
+hA2avi8BFVk.mp4,brushing hair,air drumming,brushing hair,holding snake,holding snake,0,1,0
+PSlIli8mWGk.mp4,dining,eating,dining,cleaning toilet,cleaning toilet,0,1,0
+B-Ey4W7YJBI.mp4,plastering,plastering,plastering,plastering,arm wrestling,1,1,1
+F5Q9YYRvJFg.mp4,chopping wood,chopping wood,chopping wood,blasting sand,blasting sand,1,1,0
+kKuYXphrTPA.mp4,fixing hair,brushing hair,fixing hair,brushing hair,clay pottery making,0,1,0
+ifriagxyPbw.mp4,bouncing on trampoline,bouncing on trampoline,bouncing on trampoline,bouncing on trampoline,playing cello,1,1,1
+Zao7wLso2Hk.mp4,hockey stop,hockey stop,hockey stop,hockey stop,gymnastics tumbling,1,1,1
+YXfGmgq5xZE.mp4,finger snapping,smiling,finger snapping,high jump,high jump,0,1,0
+-TpQ3bRGK2E.mp4,playing badminton,basketball,playing badminton,archery,archery,0,1,0
+JLPRN9CkszE.mp4,faceplanting,skiing,faceplanting,playing tennis,playing tennis,0,1,0
+EWpa8qmlRM4.mp4,flipping pancake,Playing guitar,flipping pancake,playing cello,playing cello,0,1,0
+Snyk3Mp9zxs.mp4,brush painting,brush painting,brush painting,brush painting,contact juggling,1,1,1
+Z2RdFZBl5ek.mp4,cutting nails,applying cream,cutting nails,bandaging,hammer throw,0,1,0
+MuW4_D2f5rg.mp4,eating watermelon,eating watermelon,eating watermelon,eating watermelon,baby waking up,1,1,1
+9KaF8Gs_XQM.mp4,feeding fish,None,feeding fish,playing tennis,playing tennis,0,1,0
+lETQjUTiwMw.mp4,breading or breadcrumbing,breading or breadcrumbing,breading or breadcrumbing,breading,playing saxophone,1,1,1
+EpJCgC_R4Vs.mp4,front raises,bending metal,front raises,carrying baby,carrying baby,0,1,0
+-R96mIiVupg.mp4,playing monopoly,playing monopoly,playing monopoly,playing monopoly,exercising with an exercise ball,1,1,1
+cpMDvqouKWE.mp4,doing aerobics,dancing,doing aerobics,dancing,folding paper,0,1,0
+xdVljCOb3Wk.mp4,bending back,bending back,bending back,bending back,playing accordion,1,1,1
+deYfkkvBCR8.mp4,playing controller,playing controller,playing controller,playing controller,eating doughnuts,1,1,1
+7GE-5t2RjYU.mp4,cooking chicken,cooking chicken,cooking chicken,cooking on campfire,cooking on campfire,1,1,0
+-mzDQcugYaU.mp4,playing harp,playing harp,playing harp,playing harp,carving pumpkin,1,1,1
+zzYfRO1JA4M.mp4,grooming dog,grooming dog,grooming dog,headbutting,headbutting,1,1,0
+ObbXieyOZf8.mp4,cleaning toilet,cleaning toilet,cleaning toilet,cleaning toilet,eating chips,1,1,1
+RtColTDG9xY.mp4,disc golfing,bending back,disc golfing,petting cat,petting cat,0,1,0
+X9oeHgBBsrw.mp4,playing organ,playing organ,playing organ,playing organ,feeding goats,1,1,1
+lRCyoV67mls.mp4,playing cricket,playing cricket,playing cricket,playing cricket,blasting sand,1,1,1
+4igvehYCc7U.mp4,playing guitar,playing guitar,playing guitar,playing guitar,exercising with an exercise ball,1,1,1
+x3pyYNrViag.mp4,doing laundry,doing laundry,doing laundry,doing laundry,decorating the christmas tree,1,1,1
+kGsK6sbZlsU.mp4,playing guitar,playing guitar,playing guitar,playing guitar,driving tractor,1,1,1
+8uOWKNXjdNw.mp4,cracking neck,answering questions,cracking neck,dancing gangnam style,dancing gangnam style,0,1,0
+aifqco3Ef18.mp4,cooking egg,cooking egg,cooking egg,cutting watermelon,cutting watermelon,1,1,0
+HMWQcEX-_lY.mp4,plastering,plastering,plastering,plastering,playing cards,1,1,1
+tSGDhMjim_Q.mp4,playing ice hockey,playing ice hockey,playing ice hockey,playing ice hockey,blowing nose,1,1,1
+AqnIKZwlPmw.mp4,egg hunting,baby waking up,egg hunting,busking,busking,0,1,0
+ynsmDKI_QKE.mp4,playing drums,drumming,playing drums,drumming fingers,dancing ballet,0,1,0
+zbkL1yR2tnQ.mp4,bee keeping,bee keeping,bee keeping,bee keeping,drumming fingers,1,1,1
+jWjd5vfcZ_o.mp4,playing cricket,walking,playing cricket,playing cymbals,playing cymbals,0,1,0
+AxzsyUZSjps.mp4,bartending,bartending,bartending,finger snapping,finger snapping,1,1,0
+l5G1res9nXQ.mp4,dying hair,dying hair,dying hair,dying hair,cooking sausages,1,1,1
+nYDkOkZZbic.mp4,hitting baseball,basketball,hitting baseball,playing basketball,playing basketball,0,1,0
+ReS7qdXtdvs.mp4,playing cards,playing cards,playing cards,playing cards,drinking shots,1,1,1
+t-NZRwXxE_U.mp4,hoverboarding,hoverboarding,hoverboarding,hoverboarding,playing squash or racquetball,1,1,1
+7xC4DIyF5-8.mp4,clean and jerk,clean and jerk,clean and jerk,bench pressing,golf chipping,1,1,0
+gl0K6Zy6qw8.mp4,climbing a rope,climbing a rope,climbing a rope,climbing a rope,auctioning,1,1,1
+FFXuSesbYM4.mp4,decorating the christmas tree,decorating the christmas tree,decorating the christmas tree,decorating the christmas tree,eating watermelon,1,1,1
+9xWZ7NGDxbs.mp4,drinking shots,drinking shots,drinking shots,drinking shots,biking through snow,1,1,1
+8tcx9Grlb-Q.mp4,biking through snow,biking through snow,biking through snow,biking through snow,cutting nails,1,1,1
+YZcRwBKFmK0.mp4,bobsledding,bobsledding,bobsledding,cleaning windows,cleaning windows,1,1,0
+Naskpf_DsQA.mp4,checking tires,cleaning,checking tires,cleaning wheel,cutting watermelon,0,1,0
+B-Y_6VBAGIY.mp4,dribbling basketball,dribbling basketball,dribbling basketball,dribbling basketball,bookbinding,1,1,1
+y2UIUcN8fcs.mp4,bandaging,bandaging,bandaging,bandaging,playing trumpet,1,1,1
+wlDWaqGLfVs.mp4,giving or receiving award,giving or receiving award,giving or receiving award,giving or receiving award,driving car,1,1,1
+d-WIGqdqE94.mp4,hurling (sport),catching or throwing baseball,hurling (sport),folding clothes,folding clothes,0,1,0
+0b9xWsXdp0Q.mp4,golf driving,golf driving,golf driving,golf driving,abseiling,1,1,1
+fPRo-LAbQ0I.mp4,doing laundry,doing laundry,doing laundry,playing bagpipes,playing bagpipes,1,1,0
+pEYxEo2ZkfA.mp4,eating hotdog,drinking,eating hotdog,getting a tattoo,getting a tattoo,0,1,0
+YCXkFo1nX1Q.mp4,abseiling,abseiling,abseiling,bungee jumping,exercising arm,1,1,0
+WR4MxnrOhOY.mp4,playing bass guitar,playing bass guitar,playing bass guitar,playing bass guitar,drop kicking,1,1,1
+FGSljqG72D0.mp4,high jump,high jump,high jump,high jump,bandaging,1,1,1
+mvdTa7uCayc.mp4,folding clothes,Playing ukulele,folding clothes,catching or throwing baseball,catching or throwing baseball,0,1,0
+jZPkP1iFuDA.mp4,cleaning pool,None,cleaning pool,folding paper,folding paper,0,1,0
+dN6vH_sV8U0.mp4,playing piano,bending back,playing piano,disc golfing,disc golfing,0,1,0
+IwLmNzmEap8.mp4,filling eyebrows,filling eyebrows,filling eyebrows,filling eyebrows,hurdling,1,1,1
+FTvoeyTiU9M.mp4,drawing,drawing,drawing,playing saxophone,playing saxophone,1,1,0
+4ZGOmbxPZ1s.mp4,catching or throwing frisbee,air drumming,catching or throwing frisbee,fixing hair,fixing hair,0,1,0
+wUKUnq7PgtY.mp4,drumming fingers,playing drums,drumming fingers,drumming fingers,hurling (sport),0,1,1
+ftyKcZJSPnQ.mp4,eating spaghetti,eating spaghetti,eating spaghetti,eating spaghetti,eating doughnuts,1,1,1
+S_lliWBAUeQ.mp4,belly dancing,belly dancing,belly dancing,belly dancing,playing squash or racquetball,1,1,1
+SCiuS8pD6NM.mp4,extinguishing fire,extinguishing fire,extinguishing fire,extinguishing fire,bandaging,1,1,1
+1ZlVbj9ra88.mp4,cleaning pool,cleaning pool,cleaning pool,cleaning pool,changing oil,1,1,1
+Ra68gMw-vH4.mp4,baking cookies,baking cookies,baking cookies,baking cookies,contact juggling,1,1,1
+Vrzwy7F8O1I.mp4,playing controller,playing controller,playing controller,playing controller,giving or receiving award,1,1,1
+uiEid6SosC8.mp4,playing trombone,playing guitar,playing trombone,playing ukulele,breading or breadcrumbing,0,1,0
+ZrbdMwNCcqg.mp4,catching or throwing softball,catching or throwing baseball,catching or throwing softball,catching or throwing baseball,counting money,0,1,0
+yyXONzUF9As.mp4,clapping,high-five,clapping,eating doughnuts,eating doughnuts,0,1,0
+VqQoUokx0-0.mp4,high kick,jumping rope,high kick,playing didgeridoo,playing didgeridoo,0,1,0
+yuEQj4g96FM.mp4,cleaning floor,cleaning floor,cleaning floor,cleaning floor,feeding goats,1,1,1
+dWHllLOATdU.mp4,blasting sand,blasting sand,blasting sand,braiding hair,braiding hair,1,1,0
+pHPFPmlp45I.mp4,dancing charleston,dancing ballet,dancing charleston,dancing ballet,arranging flowers,0,1,0
+gFyntktO8p0.mp4,folding clothes,bending back,folding clothes,ice climbing,ice climbing,0,1,0
+g0jLOTV5dkA.mp4,cooking on campfire,cooking on campfire,cooking on campfire,cooking on campfire,hopscotch,1,1,1
+x_cFq7Pnk7Y.mp4,bending metal,applying cream,bending metal,cleaning pool,cleaning pool,0,1,0
+idz_v1fRE9Y.mp4,capoeira,capoeira,capoeira,capoeira,playing guitar,1,1,1
+RsMyK2FL3pI.mp4,extinguishing fire,extinguishing fire,extinguishing fire,extinguishing fire,bungee jumping,1,1,1
+hJMqmBV2jIo.mp4,ice climbing,abseiling,ice climbing,crying,crying,0,1,0
+tNeL0PERk4k.mp4,checking tires,checking tires,checking tires,golf driving,golf driving,1,1,0
+Ft25CZzwYqI.mp4,playing trombone,playing trombone,playing trombone,playing trombone,applauding,1,1,1
+UXDjjRiPr_g.mp4,eating doughnuts,answering questions,eating doughnuts,golf driving,golf driving,0,1,0
+uglxWqRNDoY.mp4,exercising arm,push-up,exercising arm,bending back,driving tractor,0,1,0
+Ol_Bh9ge8ik.mp4,cutting pineapple,cutting pineapple,cutting pineapple,cutting pineapple,blasting sand,1,1,1
+4E75lDljah8.mp4,holding snake,holding snake,holding snake,holding snake,clapping,1,1,1
+-ngDQ-NxXZQ.mp4,playing recorder,brushing teeth,playing recorder,brushing teeth,bookbinding,0,1,0
+4HXkM2akSAw.mp4,cooking sausages,cooking sausages,cooking sausages,cooking sausages,exercising arm,1,1,1
+RQW-uUkVp2o.mp4,crawling baby,baby waking up,crawling baby,bouncing on trampoline,bouncing on trampoline,0,1,0
+Qv2McJK7ojQ.mp4,hugging,baby waking up,hugging,plastering,plastering,0,1,0
+r_dQ0SOQ9z0.mp4,giving or receiving award,giving or receiving award,giving or receiving award,giving or receiving award,building shed,1,1,1
+0z5IBF2JqJ4.mp4,driving car,driving car,driving car,fixing hair,fixing hair,1,1,0
+hLrNk4PNUWY.mp4,crawling baby,crawling baby,crawling baby,playing harp,playing harp,1,1,0
+lJVxBtiYlg4.mp4,grooming dog,grooming dog,grooming dog,grooming dog,counting money,1,1,1
+_ztr_sNy4mI.mp4,carrying baby,baby waking up,carrying baby,folding clothes,folding clothes,0,1,0
+ziQfE1eRQ0M.mp4,doing nails,applying cream,doing nails,applying cream,playing flute,0,1,0
+hJ2TR5S2iYw.mp4,dunking basketball,answering questions,dunking basketball,contact juggling,contact juggling,0,1,0
+njutzWO46OI.mp4,playing clarinet,playing saxophone,playing clarinet,playing saxophone,drumming fingers,0,1,0
+OFodVRM-DHw.mp4,playing tennis,playing tennis,playing tennis,playing tennis,feeding birds,1,1,1
+GB6c13FswuA.mp4,golf chipping,golf putting,golf chipping,golf putting,exercising with an exercise ball,0,1,0
+w7VDI5GrPUE.mp4,country line dancing,country line dancing,country line dancing,country line dancing,cleaning pool,1,1,1
+E2tDkF68daw.mp4,driving car,driving car,driving car,eating watermelon,eating watermelon,1,1,0
+v0-yNPv9S8A.mp4,cutting watermelon,cutting watermelon,cutting watermelon,cutting watermelon,golf driving,1,1,1
+D-A8T8FTGW4.mp4,driving tractor,driving tractor,driving tractor,brushing teeth,brushing teeth,1,1,0
+gbIY81mOio0.mp4,crying,applying cream,crying,dribbling basketball,dribbling basketball,0,1,0
+XZ9p8JYRUUA.mp4,flipping pancake,Playing guitar,flipping pancake,catching or throwing baseball,catching or throwing baseball,0,1,0
+M6y00QezNvA.mp4,cracking neck,applying cream,cracking neck,hockey stop,hockey stop,0,1,0
+2y5oRF_eaYU.mp4,bowling,bowling,bowling,folding clothes,folding clothes,1,1,0
+SGDfM01XXMU.mp4,petting cat,petting cat,petting cat,playing poker,playing poker,1,1,0
+RQkdt3dFKeI.mp4,playing bagpipes,playing bagpipes,playing bagpipes,playing bagpipes,breakdancing,1,1,1
+ZRWt4dry9to.mp4,playing cello,playing flute,playing cello,playing flute,bee keeping,0,1,0
+r-GrFku75mc.mp4,playing tennis,playing tennis,playing tennis,cooking chicken,cooking chicken,1,1,0
+-bdoDGMmaAw.mp4,playing saxophone,playing saxophone,playing saxophone,playing trumpet,playing trumpet,1,1,0
+ww-W6m1wz0Y.mp4,catching or throwing softball,playing baseball,catching or throwing softball,catching or throwing baseball,dunking basketball,0,1,0
+c5LSqCQQlS0.mp4,gargling,answering questions,gargling,dancing macarena,dancing macarena,0,1,0
+UFYBmdTy3h4.mp4,folding paper,cutting paper,folding paper,flipping pancake,flipping pancake,0,1,0
+FHOszybReO8.mp4,abseiling,abseiling,abseiling,contact juggling,contact juggling,1,1,0
+vErKbL3mpa4.mp4,petting cat,petting cat,petting cat,petting cat,abseiling,1,1,1
+FreqqAT1YmU.mp4,baking cookies,baking cookies,baking cookies,baking cookies,cooking sausages,1,1,1
+u_sa3ga6nfc.mp4,cleaning windows,parking,cleaning windows,playing keyboard,playing keyboard,0,1,0
+PWzXLzknWW8.mp4,catching or throwing baseball,throwing baseball,catching or throwing baseball,catching or throwing baseball,crawling baby,1,1,1
+UIqRAYT55t8.mp4,gymnastics tumbling,gymnastics tumbling,gymnastics tumbling,high jump,high jump,1,1,0
+_UYocDqQ644.mp4,drawing,drawing,drawing,headbanging,headbanging,1,1,0
+_JWNFGmIgH4.mp4,playing clarinet,playing clarinet,playing clarinet,playing clarinet,playing badminton,1,1,1
+g037zAMRU6w.mp4,flying kite,running,flying kite,feeding goats,feeding goats,0,1,0
+OLwbY9NL49Q.mp4,holding snake,holding snake,holding snake,holding snake,building cabinet,1,1,1
+q_CL8BxqzUQ.mp4,eating carrots,eating carrots,eating carrots,eating ice cream,eating ice cream,1,1,0
+OF5ByDnei8U.mp4,curling hair,curling hair,curling hair,curling hair,getting a haircut,1,1,1
+DXoBNCn0P-U.mp4,deadlifting,deadlifting,deadlifting,deadlifting,feeding fish,1,1,1
+em2Uv3zvVEk.mp4,eating carrots,eating,eating carrots,eating chips,deadlifting,1,1,0
+fWnJQX_C130.mp4,high kick,cheerleading,high kick,dancing charleston,dancing charleston,0,1,0
+UwUA_hAuQ5g.mp4,playing flute,playing flute,playing flute,playing flute,golf chipping,1,1,1
+45th535mj0Q.mp4,playing drums,playing drums,playing drums,playing drums,playing tennis,1,1,1
+7Ro0-QCHYPs.mp4,climbing ladder,climbing ladder,climbing ladder,climbing ladder,giving or receiving award,1,1,1
+19ObS7m2Xcg.mp4,hammer throw,hammer throw,hammer throw,hammer throw,doing laundry,1,1,1
+PTczHzqWSnE.mp4,playing ice hockey,playing ice hockey,playing ice hockey,playing ice hockey,eating spaghetti,1,1,1
+HkSUcLPcufI.mp4,climbing a rope,abseiling,climbing a rope,cutting watermelon,cutting watermelon,0,1,0
+Wj5i_jvc7Q4.mp4,bookbinding,writing,bookbinding,answering questions,catching or throwing frisbee,0,1,0
+kr_sikOpip4.mp4,arranging flowers,arranging flowers,arranging flowers,arranging flowers,playing didgeridoo,1,1,1
+fMSC9RMd8Ng.mp4,dancing ballet,dancing ballet,dancing ballet,cleaning gutters,cleaning gutters,1,1,0
+slt_hsULGSs.mp4,gargling,None,gargling,gymnastics tumbling,gymnastics tumbling,0,1,0
+hiSpoL6vZmI.mp4,playing poker,playing cards,playing poker,playing cards,drawing,0,1,0
+h7X3_JsfXAg.mp4,flying kite,flying kite,flying kite,clean and jerk,clean and jerk,1,1,0
+Jg6iNpFXk6U.mp4,picking fruit,picking fruit,picking fruit,playing ukulele,playing ukulele,1,1,0
+8_qLcgeTcEM.mp4,playing cymbals,playing cymbals,playing cymbals,drumming fingers,drop kicking,1,1,0
+tl78LewAxn0.mp4,playing cello,playing cello,playing cello,playing cello,baking cookies,1,1,1
+rtCfnZfn_Bw.mp4,bee keeping,bee keeping,bee keeping,bee keeping,cutting pineapple,1,1,1
+7ghuy9qjdJY.mp4,cooking egg,cooking egg,cooking egg,cooking egg,playing piano,1,1,1
+JA6kl4RlA0I.mp4,dancing ballet,bending metal,dancing ballet,faceplanting,faceplanting,0,1,0
+Um9lGc-UADk.mp4,drinking shots,drinking shots,drinking shots,drinking shots,playing flute,1,1,1
+apz9RlQ2wQ0.mp4,catching or throwing frisbee,throwing frisbee,catching or throwing frisbee,drawing,drawing,1,1,0
+UoRRXxeSGOA.mp4,playing badminton,playing badminton,playing badminton,playing badminton,drawing,1,1,1
+4kEZtRh79L8.mp4,playing keyboard,playing piano,playing keyboard,playing keyboard,playing bagpipes,0,1,1
+ntJP-ZVT0dA.mp4,clapping,applauding,clapping,playing accordion,playing accordion,0,1,0
+kVAScTNRnwA.mp4,clay pottery making,clay pottery making,clay pottery making,clay pottery making,building cabinet,1,1,1
+cJI_ePTN8Wg.mp4,crossing river,crossing river,crossing river,finger snapping,finger snapping,1,1,0
+SIepoRvCzuQ.mp4,decorating the christmas tree,decorating the christmas tree,decorating the christmas tree,decorating the christmas tree,auctioning,1,1,1
+HMqXbs4WZEU.mp4,eating watermelon,eating watermelon,eating watermelon,braiding hair,braiding hair,1,1,0
+XzayrTyl8Fw.mp4,celebrating,giving or receiving award,celebrating,flipping pancake,flipping pancake,0,1,0
+FUrLg7FETWo.mp4,chopping wood,chopping wood,chopping wood,chopping wood,high kick,1,1,1
+GKcaBZdPJUg.mp4,exercising with an exercise ball,exercising with an exercise ball,exercising with an exercise ball,exercising with an exercise ball,dancing ballet,1,1,1
+Q0aPAgJE6IQ.mp4,auctioning,auctioning,auctioning,blowing nose,blowing nose,1,1,0
+qbh3RW1P5MA.mp4,doing nails,applying cream,doing nails,applying cream,eating doughnuts,0,1,0
+6QW8x0DCiK4.mp4,blowing out candles,cooking chicken,blowing out candles,blowing leaves,blowing leaves,0,1,0
+Tf-uqQgehso.mp4,playing didgeridoo,playing didgeridoo,playing didgeridoo,playing didgeridoo,front raises,1,1,1
+Cwmi7PFIzqA.mp4,bungee jumping,bungee jumping,bungee jumping,bungee jumping,eating watermelon,1,1,1
+QlMKcuxijOM.mp4,climbing tree,climbing tree,climbing tree,applauding,applauding,1,1,0
+FxO_qIOe1FY.mp4,playing poker,playing cards,playing poker,playing cards,playing harp,0,1,0
+k0IZbBzIqCM.mp4,playing bass guitar,playing bass guitar,playing bass guitar,playing bass guitar,brushing hair,1,1,1
+V9ZM7ug7t9Q.mp4,drop kicking,running,drop kicking,driving tractor,driving tractor,0,1,0
+zJtzzrrGnKQ.mp4,dancing charleston,dancing macarena,dancing charleston,playing badminton,playing badminton,0,1,0
+8xqovRhLaJQ.mp4,cartwheeling,cheerleading,cartwheeling,building shed,building shed,0,1,0
+VOJxu3gsGgg.mp4,arm wrestling,arm wrestling,arm wrestling,arm wrestling,bending back,1,1,1
+l0nRnj_W5BA.mp4,drop kicking,lying down,drop kicking,extinguishing fire,extinguishing fire,0,1,0
+FttUy7ljzqE.mp4,cartwheeling,biking,cartwheeling,climbing tree,climbing tree,0,1,0
+UybMMj7Hfxg.mp4,busking,protesting,busking,dancing macarena,dancing macarena,0,1,0
+AV4t72IYADk.mp4,cleaning floor,cleaning floor,cleaning floor,cleaning floor,hurdling,1,1,1
+MAVHnrPvhzc.mp4,building shed,building shed,building shed,building shed,playing cymbals,1,1,1
+F2eVArNgJf0.mp4,hugging,hugging,hugging,hugging,drinking beer,1,1,1
+dl11g1PxQjk.mp4,driving tractor,mowing,driving tractor,playing accordion,playing accordion,0,1,0
+eOAO_ovLHaM.mp4,golf putting,golf putting,golf putting,golf putting,bending back,1,1,1
+fdl5gMBUWi8.mp4,digging,archaeology,digging,digging,dancing ballet,0,1,1
+wHAoJwcyKLI.mp4,blowing nose,applying cream,blowing nose,playing cello,playing cello,0,1,0
+DkPXtEoQ2qI.mp4,playing basketball,playing basketball,playing basketball,playing basketball,garbage collecting,1,1,1
+gHH8Exqd9a4.mp4,cleaning shoes,cleaning shoes,cleaning shoes,drawing,drawing,1,1,0
+5z0JbaxYSdo.mp4,playing chess,playing chess,playing chess,cutting nails,cutting nails,1,1,0
+3BNVgA_GLfo.mp4,changing wheel,assembling computer,changing wheel,biking through snow,hurling (sport),0,1,0
+8vAaCZPzUYE.mp4,dining,dining,dining,playing harp,playing harp,1,1,0
+biyy3pZX1ls.mp4,baby waking up,baby waking up,baby waking up,playing squash or racquetball,playing squash or racquetball,1,1,0
+uQignU-8eVk.mp4,diving cliff,surfing,diving cliff,feeding goats,feeding goats,0,1,0
+hyFPDm12Qww.mp4,crossing river,crossing river,crossing river,crossing river,getting a tattoo,1,1,1
+i6ljbAyJXvk.mp4,baby waking up,baby waking up,baby waking up,baby waking up,auctioning,1,1,1
+oVeRi6_ZaSc.mp4,braiding hair,braiding hair,braiding hair,braiding hair,hula hooping,1,1,1
+IUbzrR5L9bE.mp4,eating cake,eating cake,eating cake,bee keeping,bee keeping,1,1,0
+WA-ozhnu0-s.mp4,brushing teeth,brushing teeth,brushing teeth,brushing teeth,cleaning gutters,1,1,1
+ENLHVq_lePs.mp4,golf chipping,golf driving,golf chipping,golf chipping,ice climbing,0,1,1
+8HFWF0f3Rd4.mp4,headbanging,dancing,headbanging,playing controller,playing controller,0,1,0
+PKoekpgzbeE.mp4,dodgeball,playing basketball,dodgeball,playing basketball,cooking sausages,0,1,0
+6ewaKnvGYxo.mp4,auctioning,auctioning,auctioning,clean and jerk,clean and jerk,1,1,0
+rqiaWhRrnGk.mp4,getting a tattoo,getting a tattoo,getting a tattoo,getting a tattoo,playing poker,1,1,1
