@@ -8,9 +8,9 @@ Tested on **three datasets** of increasing difficulty using **Qwen2-VL 7B**.
 
 ## The Question
 
-When you pass a label or description alongside an image to a VLM, does the model actually use it, or does it just look at the image and ignore the text?
+When a label or description is passed alongside an image to a VLM, does the model actually use it, or does it just look at the image and ignore the text?
 
-This matters practically: if you are building a multimodal pipeline and passing action labels, class names, or descriptions as context, are they doing anything?
+This matters practically: in multimodal pipelines where action labels, class names, or descriptions are passed as context, the question is whether that context has any measurable effect on model behaviour.
 
 ---
 
@@ -36,7 +36,7 @@ Condition C is the key design decision. If wrong context degrades accuracy below
 
 The same three prompts are used across all datasets. Only the class list changes depending on the dataset (101 classes for UCF-101, 200 for Kinetics-400, 174 for SSv2).
 
-**Condition A — Zero-shot**
+**Condition A — Zero shot**
 ```
 You are an action recognition system.
 Possible action classes: {all class names listed here}.
@@ -58,7 +58,7 @@ Using this context and the image, select the correct action from: {all class nam
 Return only the single class name. No explanation.
 ```
 
-Note: all class names are provided in the prompt for every condition including zero-shot. This is closed-set evaluation, not open-vocabulary. The only difference between conditions is whether a reference label is provided, and whether that label is correct or wrong.
+Note: all class names are provided in the prompt for every condition including zero shot. This is closed set evaluation, not open vocabulary. 
 
 ---
 
@@ -124,7 +124,7 @@ All differences statistically significant (McNemar test, p < 0.0001 across all d
 Oracle grounding improves accuracy significantly on all three datasets. The model is not ignoring the prompt.
 
 **Finding 2: Wrong context actively hurts performance.**  
-Noise injection degrades accuracy below zero-shot on all three datasets. The model reads the label and is misled by incorrect ones.
+Noise injection degrades accuracy below zero shot on all three datasets. The model reads the label and is misled by incorrect ones.
 
 **Finding 3: The grounding effect scales with dataset difficulty.**  
 As zero-shot accuracy drops (harder dataset), the B-A improvement grows larger. The model relies on context more when visual information is ambiguous.
@@ -135,13 +135,8 @@ As zero-shot accuracy drops (harder dataset), the B-A improvement grows larger. 
 | Kinetics-400 Mini | 64.2% | +35.0% |
 | Something-Something v2 | 7.5% | +72.9% |
 
-**Note on Something-Something v2:** This dataset is explicitly designed to require temporal reasoning. Actions like "moving something up" vs "moving something down" are visually identical from a single frame. The 7.5% zero-shot reflects the single-frame limitation, not model capability. Oracle accuracy of 80.4% shows the model understands these actions correctly when given context. A multi-frame extension is planned.
+**Note on Something-Something v2:** This dataset is explicitly designed to require temporal reasoning. Actions like "moving something up" vs "moving something down" are visually identical from a single frame. The 7.5% zero shot reflects the single frame limitation, not model capability. Oracle accuracy of 80.4% shows the model understands these actions correctly when given context. A multi frame extension is planned.
 
----
-
-## Practical Implication
-
-If you build multimodal systems, the labels and descriptions you pass as context are not decorative. The model reads them, and wrong or noisy context actively degrades performance. This has direct implications for prompt design in production VLM pipelines.
 
 ---
 
@@ -152,6 +147,20 @@ If you build multimodal systems, the labels and descriptions you pass as context
 | `notebooks/ucf101_eval.ipynb` | UCF-101 | Evaluates Qwen2-VL 7B on 303 samples across 101 scene-based action classes. Includes per-class analysis showing which actions benefit most from grounding. | [Open in Kaggle](https://www.kaggle.com/code/muneebabajwa/ucf101-eval) |
 | `notebooks/kinetics400_eval.ipynb` | Kinetics-400 Mini | Replication on 400 samples across 200 YouTube action classes. Includes cross-dataset comparison chart against UCF-101 results. | [Open in Kaggle](https://www.kaggle.com/code/muneebabajwa/kinetics400-eval) |
 | `notebooks/multi_dataset_eval.ipynb` | SSv2 + config switcher | Unified notebook supporting all three datasets via a single config variable. Change one line to switch between UCF-101, Kinetics-400, and SSv2. Includes full cross-dataset comparison in the final cell. | [Open in Kaggle](https://www.kaggle.com/code/muneebabajwa/multi-dataset-eval) |
+
+
+**To run on Kaggle:**
+1. Open the notebook link above
+2. Click Edit to open the editor
+3. Add the dataset via the Input panel on the right sidebar
+4. Enable GPU T4 and Internet in session settings
+5. Run All
+
+**To run locally:**
+```bash
+pip install -r requirements.txt
+```
+Note: Qwen2-VL 7B requires approximately 16GB VRAM. Local runs were not tested — Kaggle free tier is the recommended environment.
 
 ---
 
@@ -181,35 +190,19 @@ vlm-action-grounding/
 
 ---
 
-## Reproduce
-
-```bash
-pip install -r requirements.txt
-```
-
-Open any notebook in `notebooks/` and follow the dataset setup instructions at the top. All experiments run on a single T4 GPU (Kaggle free tier).
-
-To switch datasets in `multi_dataset_eval.ipynb`, change one line:
-
-```python
-ACTIVE_DATASET = 'ssv2'        # or 'ucf101' or 'kinetics400'
-```
-
----
-
 ## Limitations
 
-- **Single frame per video:** middle frame only. Multi-frame evaluation is a planned extension, particularly for SSv2.
-- **Substring match scoring:** hit scoring uses case-insensitive substring match, not semantic similarity. May underestimate zero-shot accuracy when the model paraphrases correctly.
-- **2 samples per class:** per-class results should be interpreted cautiously at this sample size.
-- **Closed-set evaluation:** all class names are provided in the prompt for all conditions including zero-shot. This is not open-vocabulary evaluation.
+- **Single frame per video:** middle frame only. Multi frame evaluation is a planned extension, particularly for SSv2.
+- **Substring match scoring:** hit scoring uses case insensitive substring match, not semantic similarity. May underestimate zero shot accuracy when the model paraphrases correctly.
+- **2 samples per class:** per class results should be interpreted cautiously at this sample size.
+- **Closed set evaluation:** all class names are provided in the prompt for all conditions including zero shot. This is not open vocabulary evaluation.
 
 ---
 
-## Planned Extensions
+## Possible Extensions
 
-- [ ] Multi-frame condition for SSv2 (4 evenly spaced frames)
-- [ ] Semantic similarity scoring using sentence-transformers
+- [ ] Multi frame condition for SSv2 (4 evenly spaced frames)
+- [ ] Semantic similarity scoring using sentence transformers
 - [ ] Second model comparison (LLaVA or InternVL)
 - [ ] Pixtral 12B substitution when VRAM available
 
